@@ -130,7 +130,6 @@ Previous_week_Revenue = CALCULATE(
 - Total transaction amount is 46M
 - Male customers are contributing more in revenue 31M, female 26M
 - Blue & Silver credit cards are contributing to 93% of overall transactions
-- TX, NY & CA are contributing to 68%
 - Overall Activation rate is 57.5%
 - Overall Delinquent rate is 6.06%
 
@@ -138,10 +137,7 @@ Previous_week_Revenue = CALCULATE(
 
 
 ## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kartabaykrishna/PowerBI-CC-Dashboard.git
-   ```
+1. Clone the repository
 
 2. Set up the PostgreSQL database and import the data using the provided SQL scripts.
 
