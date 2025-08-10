@@ -13,8 +13,11 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ## Dashboard Images
 
 <img width="2462" height="1388" alt="Screenshot 2025-08-10 at 12 35 23 PM" src="https://github.com/user-attachments/assets/13ddea41-6c9a-436c-9a0d-23ea2bcefaef" />
+
 ---
-<img width="2456" height="1384" alt="Screenshot 2025-08-10 at 12 35 00 PM" src="https://github.com/user-attachments/assets/6c377eb9-4fdc-46c9-a570-ae2042f548a8" />
+
+<img width="2400" height="1364" alt="Screenshot 2025-08-10 at 12 49 23 PM" src="https://github.com/user-attachments/assets/4d30053b-53c5-43bf-ab89-7c783ec10bed" />
+
 ---
 
 
