@@ -1,5 +1,5 @@
 # Credit Card Transaction Dashboard
-![Dashboard Demo](./assets/PowerBI-Demo.gif)
+
 ## Project Objective
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
@@ -9,6 +9,15 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - [DAX Queries](#dax-queries)
 - [Project Insights - Week 53 (31st Dec)](#project-insights)
 - [Dashboard Images](#dashboard-images)
+
+## Dashboard Images
+
+<img width="2462" height="1388" alt="Screenshot 2025-08-10 at 12 35 23 PM" src="https://github.com/user-attachments/assets/13ddea41-6c9a-436c-9a0d-23ea2bcefaef" />
+---
+<img width="2456" height="1384" alt="Screenshot 2025-08-10 at 12 35 00 PM" src="https://github.com/user-attachments/assets/6c377eb9-4fdc-46c9-a570-ae2042f548a8" />
+---
+
+
 
 ## Import Data to SQL Database
 
@@ -122,9 +131,8 @@ Previous_week_Revenue = CALCULATE(
 - Overall Activation rate is 57.5%
 - Overall Delinquent rate is 6.06%
 
-## Dashboard Images
-![Customer Dashboard Overview](./assets/cust.png)
-![Trans. Dashboard](./assets/trans.png)
+
+
 
 ## How to Run the Project
 1. Clone the repository:
@@ -137,4 +145,6 @@ Previous_week_Revenue = CALCULATE(
 3. Open the Power BI dashboard file and connect it to the PostgreSQL database.
 
 4. To test the real-time functionality, add data to the `cust_add.csv` and `cc_add.csv` files and import them into the database. Refresh the Power BI dashboard to see the updates.
-#### `note` : if you want to interact and view the dashboard, please click [here](https://learnermanipal-my.sharepoint.com/:u:/g/personal/kartabya_krishna_learner_manipal_edu/EY3_zBSjOrhLnuQpCe0JytUBQL1yW3w3M6Qh9fGFWypa-Q?e=Xx0QiZ)
+
+
+Made with love by Priyanshu
